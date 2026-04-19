@@ -19,8 +19,8 @@
 
 ### 📫 Reach me out :
 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?&logo=Gmail&logoColor=white)](mailto:rakibcoding@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rakibhassan01/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?&logo=Gmail&logoColor=white)](mailto:justrakibhassan@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/justrakibhassan/)
 [![Discord Badge](https://img.shields.io/badge/Discord-blue?&logo=discord&logoColor=white)](https://discord.com/users/rakib_hassan)
 [![Portfolio Badge](https://img.shields.io/badge/Portfolio-9333ea.svg?&logo=redis&logoColor=white)](https://rakibhassan.vercel.app/)
 
@@ -46,7 +46,7 @@
 <br/>
 
 <p align="center">
- <img  width="80%"  src="https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app/?user=rakibhassan01&theme=algolia&card_width=800" alt="RHB"/>
+ <img  width="80%"  src="https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app/?user=justrakibhassan&theme=algolia&card_width=800" alt="RHB"/>
 
 
 </p>
@@ -59,7 +59,7 @@
 <br/>
 
 <p align="center">
-     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakibhassan01&layout=compact&theme=dark"/>
+     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justrakibhassan&layout=compact&theme=dark"/>
 </p>
 
 #
@@ -81,7 +81,7 @@
 </summary>
 <br />
 <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=rakibhassan01&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=justrakibhassan&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15">
 </div>
 
 <br/>
