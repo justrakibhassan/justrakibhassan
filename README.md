@@ -92,4 +92,4 @@ Thanks for visiting! If you like my work, consider ⭐️ my repositories.
 
 <!--Footer--> 
 ![footer gradient](https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:4B0082&height=65&section=footer&fontColor=ffffff)
-![profile count](https://komarev.com/ghpvc/?username=rakibhassan01&color=blue)&nbsp;
+![profile count](https://komarev.com/ghpvc/?username=justrakibhassan&color=blue)&nbsp;
