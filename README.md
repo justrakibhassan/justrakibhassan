@@ -6,7 +6,7 @@
 <div align="right">
 
 ![profile count](https://komarev.com/ghpvc/?username=rakibcoding&color=blue)&nbsp;
-[![GitHub](https://img.shields.io/github/followers/rakibhassan01?label=follow&style=social)](https://github.com/rakibhassan01)&nbsp;
+[![GitHub](https://img.shields.io/github/followers/justrakibhassan?label=follow&style=social)](https://github.com/justrakibhassan)&nbsp;
 </div>
 
 ### About Me
