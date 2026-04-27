@@ -1,6 +1,6 @@
 
 <a href="https://rakibhassan.vercel.app/">
-  <img src="https://raw.githubusercontent.com/rakibcoding/rakibcoding/main/img/github-header.png">
+  <img src="https://raw.githubusercontent.com/justrakibhassan/justrakibhassan/main/img/github-header.png">
   <!-- <img src="img/github-header.png"> -->
 </a>
 <div align="right">
@@ -22,18 +22,15 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?&logo=Gmail&logoColor=white)](mailto:justrakibhassan@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/justrakibhassan/)
 [![Discord Badge](https://img.shields.io/badge/Discord-blue?&logo=discord&logoColor=white)](https://discord.com/users/rakib_hassan)
-[![Portfolio Badge](https://img.shields.io/badge/Portfolio-9333ea.svg?&logo=redis&logoColor=white)](https://rakibhassan.vercel.app/)
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-9333ea.svg?&logo=vercel&logoColor=white)](https://rakibhassan.vercel.app/)
 
 <!-- Border Line -->
-#
+---
 
 <!-- <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a> -->
 
 <!--Languages and Skills Section--> 
-<summary>
-  <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">🛠️</g-emoji>
-  <strong>Tech Stack : </strong>
-</summary>
+### 🛠️ Tech Stack :
  <br/>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,typescript,react,nextjs,nodejs,express,tailwindcss,git,figma,python" />
@@ -64,7 +61,7 @@
      <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justrakibhassan&layout=compact&theme=dark"/>
 </p> -->
 
-#
+---
 <!-- Dev Stats -->
 <!-- <summary>
   <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📊</g-emoji>
@@ -77,13 +74,10 @@
 
 <br />
 <!--Contribution Graph-->
-<summary>
-  <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
-  <strong>Contribution Graph : </strong>
-</summary>
+### 📈 Contribution Graph :
 <br />
 <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=justrakibhassan&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=justrakibhassan&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" style="border-radius: 15px;">
 </div>
 
 <br/>
