@@ -36,7 +36,7 @@
 </summary>
  <br/>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,typescript,react,nextjs,nodejs,tailwindcss,git,figma,python" />
+  <img src="https://skillicons.dev/icons?i=js,typescript,react,nextjs,nodejs,express,tailwindcss,git,figma,python" />
 </p>
 
 <!-- # -->
