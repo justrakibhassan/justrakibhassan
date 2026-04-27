@@ -66,14 +66,14 @@
 
 #
 <!-- Dev Stats -->
-<summary>
+<!-- <summary>
   <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📊</g-emoji>
   <strong>Dev Stats : </strong>
 </summary>
 <br/>
 <div align="center">
 <a  href="https://app.daily.dev/rakibhassan"><img src="https://api.daily.dev/devcards/dd22b92f0fe24a20ba1dbbeeffc35fdb.png?r=g0q" width="300" alt="Rakib Hassan's Dev Card"/></a>
-</div>
+</div> -->
 
 <br />
 <!--Contribution Graph-->
@@ -93,5 +93,5 @@ Thanks for visiting! If you like my work, consider ⭐️ my repositories.
 </div>
 
 <!--Footer--> 
-![footer gradient](https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:4B0082&height=65&section=footer&fontColor=ffffff)
+<!-- ![footer gradient](https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:4B0082&height=65&section=footer&fontColor=ffffff) -->
 ![profile count](https://komarev.com/ghpvc/?username=justrakibhassan&color=blue)&nbsp;
