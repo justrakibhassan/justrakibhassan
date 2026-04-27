@@ -25,7 +25,9 @@
 [![Portfolio Badge](https://img.shields.io/badge/Portfolio-9333ea.svg?&logo=redis&logoColor=white)](https://rakibhassan.vercel.app/)
 
 <!-- Border Line -->
-<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+#
+
+<!-- <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a> -->
 
 <!--Languages and Skills Section--> 
 <summary>
@@ -37,7 +39,7 @@
   <img src="https://skillicons.dev/icons?i=js,typescript,react,nextjs,nodejs,tailwindcss,git,figma,python" />
 </p>
 
-#
+<!-- # -->
 <!-- Github stats Table  -->
 <!-- <summary>
   <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
