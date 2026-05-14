@@ -1,6 +1,6 @@
 
 <a href="https://rakibhassan.vercel.app/">
-  <img src="https://raw.githubusercontent.com/justrakibhassan/justrakibhassan/main/img/github-header.png">
+  <img src="img/animated-header.svg" width="100%" alt="Rakib Hassan - Full-Stack Developer">
   <!-- <img src="img/github-header.png"> -->
 </a>
 <div align="right">
@@ -19,8 +19,8 @@
 
 ### 📫 Reach me out :
 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?&logo=Gmail&logoColor=white)](mailto:justrakibhassan@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/justrakibhassan/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?&logo=Gmail&logoColor=white)](mailto:sayhirakib@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/justrakibhassan/)
 [![Discord Badge](https://img.shields.io/badge/Discord-blue?&logo=discord&logoColor=white)](https://discord.com/users/rakib_hassan)
 [![Portfolio Badge](https://img.shields.io/badge/Portfolio-9333ea.svg?&logo=redis&logoColor=white)](https://rakibhassan.vercel.app/)
 

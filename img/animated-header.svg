@@ -1,0 +1,130 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 250" width="800" height="250">
+    <defs>
+        <!-- Dynamic Gradient -->
+        <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+            <stop offset="0%" stop-color="#FF4D00">
+                <animate attributeName="stop-color" values="#FF4D00; #E52E71; #FF4D00" dur="6s" repeatCount="indefinite" />
+            </stop>
+            <stop offset="50%" stop-color="#FF8A00">
+                <animate attributeName="stop-color" values="#FF8A00; #FF007A; #FF8A00" dur="6s" repeatCount="indefinite" />
+            </stop>
+            <stop offset="100%" stop-color="#FF4D00">
+                <animate attributeName="stop-color" values="#FF4D00; #E52E71; #FF4D00" dur="6s" repeatCount="indefinite" />
+            </stop>
+        </linearGradient>
+
+        <!-- Drop Shadow for Text to create a 3D/glowing effect -->
+        <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+            <feGaussianBlur stdDeviation="4" result="blur" />
+            <feComposite in="SourceGraphic" in2="blur" operator="over" />
+        </filter>
+
+        <style>
+            .title {
+                font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+                font-size: 78px;
+                font-weight: 900;
+                fill: url(#textGrad);
+                text-anchor: middle;
+                dominant-baseline: middle;
+                letter-spacing: -2px;
+                filter: url(#glow);
+            }
+
+            .subtitle {
+                font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+                font-size: 22px;
+                font-weight: 600;
+                fill: #94A3B8;
+                text-anchor: middle;
+                dominant-baseline: middle;
+                letter-spacing: 3px;
+                opacity: 0;
+                animation: slideUp 1s ease-out 0.5s forwards;
+            }
+
+            .container {
+                animation: float 6s ease-in-out indefinite;
+            }
+
+            /* Floating dots for micro-interactions */
+            .dot {
+                fill: #FF4D00;
+                opacity: 0.6;
+            }
+            .dot-1 { animation: floatDot 4s ease-in-out infinite alternate; }
+            .dot-2 { animation: floatDot 5s ease-in-out infinite alternate-reverse; }
+            .dot-3 { animation: floatDot 6s ease-in-out infinite alternate; }
+            
+            /* Ring animation */
+            .ring {
+                fill: none;
+                stroke: #FF4D00;
+                stroke-width: 2;
+                opacity: 0.2;
+                animation: spin 10s linear infinite;
+                transform-origin: center;
+            }
+
+            @keyframes float {
+                0%, 100% { transform: translateY(0px); }
+                50% { transform: translateY(-8px); }
+            }
+
+            @keyframes slideUp {
+                from { opacity: 0; transform: translateY(15px); }
+                to { opacity: 1; transform: translateY(0); }
+            }
+
+            @keyframes floatDot {
+                0% { transform: translate(0px, 0px) scale(1); opacity: 0.3; }
+                100% { transform: translate(10px, -15px) scale(1.5); opacity: 0.8; }
+            }
+
+            @keyframes spin {
+                100% { transform: rotate(360deg); }
+            }
+            
+            .box {
+                animation: reveal 1.5s cubic-bezier(0.77, 0, 0.175, 1) forwards;
+                transform-origin: left;
+            }
+            
+            @keyframes reveal {
+                0% { transform: scaleX(0); }
+                100% { transform: scaleX(1); }
+            }
+        </style>
+    </defs>
+
+    <!-- Transparent Background -->
+    <rect width="100%" height="100%" fill="transparent" />
+
+    <!-- Animated Elements -->
+    <g transform="translate(150, 60)">
+        <circle cx="0" cy="0" r="4" class="dot dot-1" />
+        <circle cx="0" cy="0" r="15" class="ring" />
+    </g>
+    <g transform="translate(680, 180)">
+        <circle cx="0" cy="0" r="3" class="dot dot-2" />
+        <circle cx="0" cy="0" r="20" class="ring" style="animation-direction: reverse; animation-duration: 15s;" />
+    </g>
+    <g transform="translate(100, 190)">
+        <circle cx="0" cy="0" r="5" class="dot dot-3" />
+    </g>
+    <g transform="translate(700, 50)">
+        <circle cx="0" cy="0" r="2" class="dot dot-1" />
+    </g>
+
+    <!-- Main Content -->
+    <g class="container">
+        <!-- Giant Text -->
+        <text x="400" y="105" class="title">Rakib Hassan</text>
+        
+        <!-- Decorative Line -->
+        <rect x="350" y="150" width="100" height="3" fill="#FF4D00" class="box" />
+        
+        <!-- Subtitle -->
+        <text x="400" y="185" class="subtitle">FULL-STACK DEVELOPER</text>
+    </g>
+</svg>
