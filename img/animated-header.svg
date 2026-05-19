@@ -9,8 +9,6 @@
                 text-anchor: middle;
                 dominant-baseline: middle;
                 letter-spacing: -2px;
-                opacity: 0;
-                animation: fadeInDown 1s ease-out forwards;
             }
 
             .dot {
@@ -25,23 +23,13 @@
                 text-anchor: middle;
                 dominant-baseline: middle;
                 letter-spacing: 2px;
-                opacity: 0;
-                animation: fadeInUp 1s ease-out 0.4s forwards;
             }
             
             .accent {
                 fill: #8b5cf6;
             }
 
-            @keyframes fadeInDown {
-                from { opacity: 0; transform: translateY(-15px); }
-                to { opacity: 1; transform: translateY(0); }
-            }
 
-            @keyframes fadeInUp {
-                from { opacity: 0; transform: translateY(15px); }
-                to { opacity: 1; transform: translateY(0); }
-            }
         </style>
     </defs>
 
@@ -57,7 +45,7 @@
         
         <!-- Title -->
         <text x="400" y="170" class="title">
-            Full-Stack Developer <tspan class="accent">|</tspan> Software Engineer
+            Full-Stack Developer
         </text>
     </g>
 </svg>
