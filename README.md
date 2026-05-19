@@ -10,11 +10,12 @@
 </div>
 
 ### About Me
-**Full-Stack Developer**  
-- 👨🏻‍💻 Building modern SaaS & e-commerce apps with **Next.js**, **TypeScript**, and **Tailwind CSS** — clean UI, fast performance, real impact.  
-- 🔭 Focused on scalability, maintainability & seamless DX.  
-- ⚡ Always learning, always shipping.
 
+Full-Stack Developer specializing in SaaS & AI products.
+
+- 🚀 Building production-ready apps with **Next.js**, **TypeScript**, and **Node.js**
+- ⚙️ Focused on scalable architecture, clean APIs, and real business impact
+- 💼 Open to freelance & full-time remote roles
 <br/>
 
 ### 📫 Reach me out :
