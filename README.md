@@ -89,9 +89,7 @@ Full-Stack Developer specializing in SaaS & AI products.
 
 <br/>
 
-<div align="center">
-Thanks for visiting! If you like my work, consider ⭐️ my repositories.
-</div>
+
 
 <!--Footer--> 
 <!-- ![footer gradient](https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:4B0082&height=65&section=footer&fontColor=ffffff) -->
